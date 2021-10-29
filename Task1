@@ -1,0 +1,10 @@
+const outerWear = "T-Shirt";
+
+function myOutfit() {
+  
+const outerWear = "sweateк"
+
+  return outerWear;
+}
+
+myOutfit();
