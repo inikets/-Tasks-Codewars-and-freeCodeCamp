@@ -8,3 +8,4 @@ function testStrictNotEqual(val) {
   testStrictNotEqual(112);
 
   console.log(Tasks)
+  console.log(12)
