@@ -5,4 +5,6 @@ function testStrictNotEqual(val) {
     return "Equal";
   }
   
-  testStrictNotEqual(10);
+  testStrictNotEqual(112);
+
+  console.log(Tasks)
